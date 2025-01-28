@@ -1,4 +1,4 @@
-print ('---------------------------------------') #AHHHHHHHHHHHHHHHHHHHHHHHHH
+print ('---------------------------------------') 
 print ('⤜    Inventario de almacenamiento    ⤛')
 print ('---------------------------------------')
 
